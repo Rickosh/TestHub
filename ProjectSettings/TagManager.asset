@@ -6,6 +6,8 @@ TagManager:
   tags:
   - CinemachineTarget
   - Ground
+  - Trap
+  - EndZone
   layers:
   - Default
   - TransparentFX
