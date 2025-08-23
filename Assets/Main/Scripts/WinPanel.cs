@@ -5,6 +5,7 @@ public class WinPanel : MonoBehaviour
     public void Close()
     {
         Application.Quit();
+
 #if UNITY_EDITOR
         UnityEditor.EditorApplication.isPlaying = false;
 #endif
